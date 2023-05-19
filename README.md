@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @saradindurana
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning cse from calcutta university
-- 💞️ I’m looking to collaborate on php development
 - 📫 How to reach me ...saradindurana@gmail.com
 
 <!---
