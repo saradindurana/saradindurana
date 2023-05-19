@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @saradindurana
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning cse from calcutta university
 - 📫 How to reach me ...saradindurana@gmail.com
 
 <!---
